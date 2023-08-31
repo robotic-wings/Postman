@@ -1,8 +1,4 @@
-'''
-Name: Kefan Liu
-UniKey: kliu9014
-SID: 500135385
-'''
+
 import socket
 import regex
 from utils import is_smtp_message, server_log, client_log
