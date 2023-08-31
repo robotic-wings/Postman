@@ -1,14 +1,10 @@
-'''
-Name: Kefan Liu
-UniKey: kliu9014
-SID: 500135385
-'''
 import os
 import sys
 import socket
 from utils import read_config, server_log
 from postman_server import PostmanServer
 
+# This is just a sample pair of ID and SECRET
 PERSONAL_ID = '7D444D'
 PERSONAL_SECRET = 'b4b52156ba5213240a2315b0bc5412ed'
 
