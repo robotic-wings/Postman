@@ -1,8 +1,4 @@
-'''
-Name: Kefan Liu
-UniKey: kliu9014
-SID: 500135385
-'''
+
 import base64
 import datetime
 import time
