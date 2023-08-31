@@ -6,6 +6,7 @@ from pathlib import Path
 from postman_client import PostmanClient, Transaction
 from utils import read_config, client_log, encode_base64_msg
 
+# This is just a sample pair of ID and Secret
 PERSONAL_ID = '7D444D'
 PERSONAL_SECRET = 'b4b52156ba5213240a2315b0bc5412ed'
 
