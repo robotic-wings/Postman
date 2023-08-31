@@ -1,8 +1,4 @@
-'''
-Name: Kefan Liu
-UniKey: kliu9014
-SID: 500135385
-'''
+
 import socket
 from secrets import token_hex
 import hmac
