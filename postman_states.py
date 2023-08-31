@@ -1,8 +1,4 @@
-'''
-Name: Kefan Liu
-UniKey: kliu9014
-SID: 500135385
-'''
+
 from enum import Enum
 
 class PostmanStates(Enum):
