@@ -1,0 +1,12 @@
+S: 220 Service ready
+C: EHLO 1.2.3.4
+S: 250 127.0.0.1
+S: 250 AUTH CRAM-MD5
+C: AUTH AES-256
+S: 504 Command parameter not implemented
+C: AUTH CRAM-MD5
+S: 334 MTIzNDU2NzgtMTIzNC0xMjM0LTEyMzQtMTIzNDU2Nzg5MGFi
+C: N0Q0NDREIGU0YjVhZDFlZDM3ZmJiMDEwZDI0YjkwMDM4ZWE1MGRl
+S: 535 Authentication credentials invalid
+C: QUIT
+S: 221 Service closing transmission channel

@@ -1,0 +1,21 @@
+S: 220 Service ready
+C: MAIL FROM:<donald.trump@whitehouse.gov>
+S: 503 Bad sequence of commands
+C: RCPT TO:<alice@gmail.com>
+S: 503 Bad sequence of commands
+C: DATA
+S: 503 Bad sequence of commands
+C: Date: Mon, 14 Sep 2027 23:07:00 +1000
+S: 500 Syntax error, command unrecognized
+C: Subject: My heritage is all yours
+S: 500 Syntax error, command unrecognized
+C: Please bring your identification documents and come to my house.
+S: 500 Syntax error, command unrecognized
+C: I will give all of my money to you.
+S: 500 Syntax error, command unrecognized
+C: P.S. THIS IS NOT A SPAM
+S: 500 Syntax error, command unrecognized
+C: .
+S: 500 Syntax error, command unrecognized
+C: QUIT
+S: 221 Service closing transmission channel

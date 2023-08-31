@@ -1,0 +1,9 @@
+EHLO 127.0.0.1
+MAIL FROM:<donald.trump@whitehouse.gov>
+RCPT TO:<alice@gmail.com>
+DATA
+Please bring your identification documents and come to my house.
+I will give all of my money to you.
+P.S. THIS IS NOT A SPAM
+.
+QUIT

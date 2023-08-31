@@ -1,0 +1,10 @@
+MAIL FROM:<donald.trump@whitehouse.gov>
+RCPT TO:<alice@gmail.com>
+DATA
+Date: Mon, 14 Sep 2027 23:07:00 +1000
+Subject: My heritage is all yours
+Please bring your identification documents and come to my house.
+I will give all of my money to you.
+P.S. THIS IS NOT A SPAM
+.
+QUIT
